@@ -14,6 +14,14 @@ Przed szkoleniem należy zainstalować:
     * rust-analyzer
     * Jupyter
     * Live Share
+* Rust REPL - `evcxr_repl`
+
+  ```bash
+  cargo install evcxr_repl
+  cargo install evcxr_jupyter
+  evcxr_jupyter --install
+  ```
+
 
 ### Docker + Visual Studio Code
 
